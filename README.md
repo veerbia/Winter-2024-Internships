@@ -24,3 +24,4 @@ To contribute:
 
 | Name  |  Location | Application Period | Notes |
 |---|---|-------------|-------------|
+|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Firmware-Features-Intern-Fall-2024-Meraki/1399176)|San Francisco| SWE Intern
