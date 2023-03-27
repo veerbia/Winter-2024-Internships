@@ -1,6 +1,6 @@
 # Winter-2024-Internships
 
-Collection of Winter 2024 tech internships! Will be updated regularly as new internships drop!
+Collection of Winter 2024 tech internships! Will be updated regularly as new internships drop.
 
 Shoutout to **[The Pitt CS Club](https://github.com/pittcsc)** for developing the initial framework and list.
 
