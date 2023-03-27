@@ -2,7 +2,7 @@
 
 Collection of Winter 2024 tech internships!
 
-Shoutout to GitHub user **[bsovs](https://github.com/bsovs)** and **[The Pitt CS Club](https://github.com/pittcsc)** for developing the initial framework and list.
+Shoutout to **[The Pitt CS Club](https://github.com/pittcsc)** for developing the initial framework and list.
 
 ---
 
