@@ -1,6 +1,6 @@
-# Winter-2024-Internships
+# Winter 2024 Internships
 
-Collection of Winter 2024 tech internships! Will be updated regularly as new internships drop.
+Use this repo to share and keep track of software, tech, CS, PM, quant internships for Summer 2023. Will be updated regularly as new internships drop.
 
 Shoutout to **[The Pitt CS Club](https://github.com/pittcsc)** for developing the initial framework and list.
 
